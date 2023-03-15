@@ -1,6 +1,6 @@
 name: datatype_converter
 description: A Dart library for converting different type of datatypes to desired datatype output.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Trend74X/datatype_converter/blob/master/README.md
 
 environment:
